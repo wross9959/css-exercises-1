@@ -1,0 +1,25 @@
+
+p {
+    color: black;
+    background-color: #ff000050;
+
+}
+
+.num2 {
+    color: blue;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.p2 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.num4 {
+
+    color: black;
+    background-color: #32cd3290;
+    font-size: 18px;
+    font-weight: bold;
+}
